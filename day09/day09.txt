@@ -1,0 +1,17 @@
+라이브러리(도서관 = 다양한 책들의 집합 => 대여)
+
+프레임워크 vs 라이브러리
+    프레임워크는 개발자에게 선택권이 없다(사용법과 똑같이 사용해야됨), 규칙을 제공
+    ex) spring, django, nextJS
+
+    라이브러리는 개발자에게 선택권이 있다(주도권), 환경만 제공
+    ex)nodeJs에서 설치되는 모든 패키지, react, jQuery
+
+AOS, Swipe
+
+    AOS(animate on scroll library)
+    https://michalsnik.github.io/aos/
+
+
+    Swipe
+    https://swiperjs.com/
